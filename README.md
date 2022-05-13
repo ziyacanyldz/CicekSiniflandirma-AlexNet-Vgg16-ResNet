@@ -1,0 +1,1 @@
+# -i-ek-T-rleri-Tan-ma-AlexNet-Vgg-16-ResNet-
